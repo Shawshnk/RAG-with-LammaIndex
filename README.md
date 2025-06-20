@@ -11,8 +11,8 @@ In short, the RAG (Retrieval-Augmented Generation) workflow using LlamaIndex inv
 
 
 #Requirement:-
-llama-index
-llama-index-embeddings-huggingface
-Chromadb
-llama-index-vector-stores-chroma
+llama-index,
+llama-index-embeddings-huggingface,
+Chromadb,
+llama-index-vector-stores-chroma,
 llama_index.llms.huggingface_api
